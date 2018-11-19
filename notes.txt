@@ -8,3 +8,11 @@ E	-	4
 	E	  A
 	  C
 
+initIn1		-	pályaY
+initIn2		-	pályaX
+initIn3		-	enemyk száma
+
+in1				-		C irány
+in2				-		A irány
+in3				-		D irány
+in4				-		E irány
